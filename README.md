@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Amirhossein Farkhonde Sharif ,I am Interested in learning Android development using its Native Progamming Languages(Kotlin/Java) based on the Proper Architecture
+I am Amirhossein Farkhonde Sharif and Interested in learning Android development using its Native Programming Languages(Kotlin/Java)
 <!--
 **AMIRHOSSEINFSH/AMIRHOSSEINFSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
