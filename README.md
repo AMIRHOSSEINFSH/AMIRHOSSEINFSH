@@ -4,7 +4,12 @@
 
 I am Amirhossein Farkhonde Sharif and Interested in learning Android development using its Native Programming Languages(Kotlin/Java)
 
-Skills: Android SDK / Kotlin / Java / DesignPatterns / Dependency Injection
+## Skils And Experience
+* Android SDK 
+* Kotlin 
+* Java 
+* DesignPatterns 
+* Dependency Injection
 
 
 
